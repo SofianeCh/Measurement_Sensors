@@ -1,0 +1,15 @@
+C:\Users\sofiane\source\repos\Webreader2\Webreader2\bin\Debug\netcoreapp3.0\Webreader2.exe
+C:\Users\sofiane\source\repos\Webreader2\Webreader2\bin\Debug\netcoreapp3.0\Webreader2.deps.json
+C:\Users\sofiane\source\repos\Webreader2\Webreader2\bin\Debug\netcoreapp3.0\Webreader2.runtimeconfig.json
+C:\Users\sofiane\source\repos\Webreader2\Webreader2\bin\Debug\netcoreapp3.0\Webreader2.runtimeconfig.dev.json
+C:\Users\sofiane\source\repos\Webreader2\Webreader2\bin\Debug\netcoreapp3.0\Webreader2.dll
+C:\Users\sofiane\source\repos\Webreader2\Webreader2\bin\Debug\netcoreapp3.0\Webreader2.pdb
+C:\Users\sofiane\source\repos\Webreader2\Webreader2\obj\Debug\netcoreapp3.0\Webreader2.csprojAssemblyReference.cache
+C:\Users\sofiane\source\repos\Webreader2\Webreader2\obj\Debug\netcoreapp3.0\Webreader2.AssemblyInfoInputs.cache
+C:\Users\sofiane\source\repos\Webreader2\Webreader2\obj\Debug\netcoreapp3.0\Webreader2.AssemblyInfo.cs
+C:\Users\sofiane\source\repos\Webreader2\Webreader2\obj\Debug\netcoreapp3.0\Webreader2.dll
+C:\Users\sofiane\source\repos\Webreader2\Webreader2\obj\Debug\netcoreapp3.0\Webreader2.pdb
+C:\Users\sofiane\source\repos\Webreader2\Webreader2\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\sofiane\source\repos\Webreader2\Webreader2\obj\Debug\netcoreapp3.0\Webreader2.csproj.CopyComplete
+C:\Users\sofiane\source\repos\Webreader2\Webreader2\bin\Debug\netcoreapp3.0\Elasticsearch.Net.dll
+C:\Users\sofiane\source\repos\Webreader2\Webreader2\bin\Debug\netcoreapp3.0\Nest.dll
