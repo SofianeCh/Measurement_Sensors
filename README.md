@@ -1,4 +1,4 @@
-"# Measurement_Sensors" 
+# Measurement_Sensors
 
 With this small project, I extract data from an RPI4 with a small python code.
 I'll use the DHT11 to extract the temp and humidity and a moisture sensor to check whether a plant we'll need water.
